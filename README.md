@@ -1,7 +1,4 @@
-webcams
-=======
-
-Control and get images from our webcams.
-
-This repo is currently empty, and the software is developed and versioned in a private git repo.
-I expect to switch to using this repo during April 2013. DavidTangye@gctechspace.org
+Display and control webcams at Gold Coast TechSpace,
+		typically via embedded pages in the Wordpress driven website.
+ToDo:
+	#. Rewrite index.php to correctly update the text overlays on camera images
